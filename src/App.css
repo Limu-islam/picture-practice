@@ -1,0 +1,84 @@
+.App{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #EBEAFA;
+    height: 100vh;
+    width: 100vw;
+
+}
+.midllediv{
+    height: 90vh;
+    width: 80vw;
+    background-color: #EBEAFA;
+    box-shadow: 5px 5px 5px -3px white;
+    box-sizing: border-box;
+    border: 5px solid white;
+    border-radius: 20px;
+
+
+  
+
+}
+.tobsite{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+   width: 75vw;
+   margin-left: 32px;
+
+}
+.button{
+    height: 30px;
+    width: 75px;
+    background-color: blueviolet;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.buttontwo{
+    height: 30px;
+    width: 80px;
+    background-color: blueviolet;
+    border-radius: 4px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.searchdiv{
+    height: 8vh;
+    width: 32vw;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px; 
+    margin-left: 14px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.rightdiv{
+    height: 78vh;
+    width: 47vw;
+    background-color: aqua;
+}
+.leftside{
+height: 78vh;
+    width: 50vw;
+    background-color: rgb(35, 176, 211);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: -100px; */
+}
+.searchin{
+    width: 31vw;
+    height: 7vh;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
